@@ -4,7 +4,6 @@ import AdultTrips from "./AdultTrips"
 import YouthTrips from "./YouthTrips"
 
 const assets = `${import.meta.env.BASE_URL}assets`;
-
 const images = {
   logo: `${assets}/89cbf.png`,
   hero: `${assets}/real/home-sea-turtle.jpg`,
